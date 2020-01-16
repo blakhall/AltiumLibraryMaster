@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06072016-104290";"";
+"REFERENCE";"87832-1021";"";
+"TraceParts.PartTitle";"Header 2.00mm Milli-Grid, SMT, vert, 10w";"";
+"TraceParts.InstanceId";"10-06072016-104290CQ5LTA3DNB5RJQ4CDH6EAL2AY";"";
+"DESIGN";"Header 2.00mm Milli-Grid, SMT, vert, 10w";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:/TRACEPARTS/TP10/TP10011/TP10011004/10-06072016-104290";"";

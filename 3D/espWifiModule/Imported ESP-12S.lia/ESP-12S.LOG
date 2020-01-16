@@ -1,0 +1,36 @@
+PCAD Importer Log
+Project : ESP-12S.LibPkg
+
+Section : Z:\doc\Library\CAD\Altium\3D\espWifiModule\ESP-12S.lia
+    Section : PCB Library - ESP-12S.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ESP-12S On Line 383
+            Warning - 1 : Skipping Token attachedSymbol On Line 580
+            Warning - 1 : Skipping Token 1 On Line 587
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*ESP-12S][Primary] associated with PCAD Component [ESP-12S] has been renamed to PCB FootPrint [*ESP-12S_ESP-12S(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - ESP-12S.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 227
+            Warning - 1 : Skipping Token layerContents On Line 331
+            Warning - 1 : Skipping Token layerContents On Line 345
+            Warning - 1 : Skipping Token layerContents On Line 359
+            Warning - 1 : Skipping Token layerContents On Line 367
+            Warning - 1 : Skipping Token 1 On Line 587
+        EndSection
+
+        Section : Generating SCH Library - ESP-12S.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*ESP-12S][Primary] associated with PCAD Component [ESP-12S] has been renamed to PCB FootPrint [*ESP-12S_ESP-12S(Primary)].
+        EndSection
+    EndSection
+EndSection

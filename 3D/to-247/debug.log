@@ -1,0 +1,5 @@
+[0705/231945:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0705/231945:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0705/231950:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0705/231950:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0706/004252:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
